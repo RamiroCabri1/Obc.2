@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\bin\Debug\net6.0\operadores.exe
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\bin\Debug\net6.0\operadores.deps.json
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\bin\Debug\net6.0\operadores.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\bin\Debug\net6.0\operadores.dll
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\bin\Debug\net6.0\operadores.pdb
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.dll
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\refint\operadores.dll
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.pdb
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\operadores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#.net\operadores\operadores\obj\Debug\net6.0\ref\operadores.dll
